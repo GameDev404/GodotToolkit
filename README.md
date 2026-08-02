@@ -12,10 +12,6 @@ Copy the addon into:
 
 res://addons/godot_components/
 
-Enable it in:
-
-Project Settings → Plugins
-
 ## License
 
 MIT License.
