@@ -5,6 +5,8 @@ A collection of reusable gameplay systems for Godot.
 ## Features
 
 - Stat system
+- Hoverable Button with opacity modification
+- Linear Shader with light and dark inputs
 
 ## Installation
 
